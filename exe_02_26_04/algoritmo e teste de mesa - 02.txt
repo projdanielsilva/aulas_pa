@@ -1,0 +1,13 @@
+Algoritmo CalculaMedia
+    Entre com um valor para valor
+    Entre com um valor para qtde
+    Faça vt = (qtde*valor)
+    Mostre vt
+FimAlgoritmo
+
+
+Teste de Mesa
+
+valor   qtde   vt
+10,90   5      54,5
+17,50   3      52,5
