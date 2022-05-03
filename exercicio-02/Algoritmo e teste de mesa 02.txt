@@ -1,0 +1,15 @@
+AlgoritmoSoma
+
+  Entre com um valor para n1
+  Entre com um valor para n2
+  Entre com um valor para n3
+  Entre com um valor para n4
+  Faça (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4)=resultado_final
+  Mostre o resultado_final
+FimAlgoritmo
+
+
+Teste de Mesa
+
+n1   n2   n3   n4   resultado_final
+2    4    16   256  65.586
