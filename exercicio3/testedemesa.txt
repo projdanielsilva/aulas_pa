@@ -1,0 +1,14 @@
+Algoritmo SomaQuadrados
+     Entre com um valor para preco_unitario 
+     Entre com um valor para quantidade_vendida
+
+     faca preco_unitario * quantidade_vendida e atribua o valor a total 
+     Faca total*0,05 e atribua o valor a comissao
+     Mostre o total e a comissao
+
+FimAlgoritmo
+
+Teste de Mesa 
+
+preco_unitario      quantidade_vendida       total    comissao
+    2.5                    200                500       25,00
