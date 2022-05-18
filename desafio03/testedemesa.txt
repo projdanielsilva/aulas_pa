@@ -1,0 +1,16 @@
+
+Algoritmo CalculaGastoGasolina
+
+	Entre com um valor para os quiometros e atribua a km
+	Entre com um valor para os consumo e atribua a consumo
+	Entre com um valor para o preco e atribua a preco
+	Faca (km/consumo)*preco e atribua esse valor para resultado
+	Faca resultado*2 e atribua esse valor para ida_volta
+	Mostre resultado e ida_volta
+
+FimAlgoritmo
+
+Teste de Mesa
+
+quilometros		consumo		preco		resultado	ida e volta
+   450			   10           4,50		  202,50            405,00
