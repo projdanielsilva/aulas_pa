@@ -1,0 +1,13 @@
+Algoritmo CalculaCustoCarro
+	Entre com um valor para custo de fábrica do carro e atribua a custo
+
+	Faca 0.45*custo de fabrica do carro+custo de fabrica do carro e atribua esse valor à impostos 
+	Faca 0.28*impostos+imposto e atribua esse valor à distribuicao 
+	Mostre distribuição
+
+FimAlgoritmo
+
+Teste de Mesa
+
+    custo		imposto		distribuicao		total	  
+  25.000,00             11.250             10.150             46.400,00
