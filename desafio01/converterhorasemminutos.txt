@@ -1,0 +1,15 @@
+Algoritmo ConverteHorasMinutos
+
+	Entre com um valor para as horas e atribua a horas
+	Entre com um valor para os minutos e atribua a minutos
+	Faca minutos/60 e atribua esse valor para minutos_convertidos
+	Faca minutos_convertidos+horas e atribua esse valor para resultado
+	Mostre resultado
+
+FimAlgoritmo
+
+Teste de Mesa
+
+horas		minutos		resultado
+ 3h		 40min            3.67
+ 1h              32min            1.52
