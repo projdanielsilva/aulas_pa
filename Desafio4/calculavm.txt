@@ -1,0 +1,16 @@
+Algoritmo CalculaVM
+
+	Entre com um valor para o quilometros percorridos e atribua a km
+	Entre com um valor para as horas e atribua a horas
+	Entre com um valor para os minutos e atribua a minutos
+	Faca (minutos/60)+horas e atribua esse valor para conversao
+	Faca km/conversao e atribua esse valor para vmedia
+	Mostre vmedia
+
+FimAlgoritmo
+
+Teste de Mesa
+
+quilometros percorridos		horas		minutos		vmedia   	
+         150		         1h              13min          122km/h
+
