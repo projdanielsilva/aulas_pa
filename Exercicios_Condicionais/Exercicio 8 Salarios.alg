@@ -1,16 +1,32 @@
 algoritmo "Exercicio 8: Salarios"
-// Fun��o : Ler nome, idade, sal�rio e % de reajuste
+// Função : Ler nome, idade, salário e % de reajuste
 // Autor : Daniel
 // Data : 15/03/2022
-// Se��o de Declara��es
+// Seção de Declarações
 var
-salario, novoSalario: real
+salario,aumento: real
+
 inicio
+// Entrada
+
+escreval("Digite o seu salário")
 leia(salario)
-se (salario <= 1500) entao
-novoSalario ?salario+(salario*20)/100senao
-se (salario <= 3000) entaonovoSalario ?salario+(salario*15)/100senao
-novoSalario ?salario+(salario*20)/100fimse
+
+// processamento
+
+se (salario<=1500) entao
+aumento<-(salario*0.2)
+escreval ("Seu aumento será de R$: ",aumento)
 fimse
-escreva(novoSalario)
+
+se ((salario>=1500) e (salario<=3000)) entao
+aumento<-(salario*0.15)
+escreval ("Seu aumento será de R$: ",aumento)
+fimse
+
+se (salario>=3000) entao
+aumento<-(salario*0.1)
+escreval ("Seu aumento será de R$: ",aumento)
+fimse
+
 fimalgoritmo
