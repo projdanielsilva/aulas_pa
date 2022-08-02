@@ -1,6 +1,6 @@
 algoritmo "imposto"
 // Função : Definir a quantia de imposto a se pagar
-// Autor : Daniel da Silva
+// Autor : Daniel da Silv
 // Data : 31/07/2022
 // Seção de Declarações 
 
