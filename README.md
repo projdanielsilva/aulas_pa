@@ -1,9 +1,9 @@
 # aulas_pa
-Repositório para as aulas de Programação e Algoritmos 
+Repositório para as Aulas de Programação e Algoritmos 
 
-alfandega scratch:
+Alfandega Scratch:
 https://scratch.mit.edu/projects/663797014/editor
-media scratch:https://scratch.mit.edu/projects/663830152/editor
+Media Scratch:https://scratch.mit.edu/projects/663830152/editor
 
 # Exemplo 01 - Scrath : https://scratch.mit.edu/projects/671429484/
 # Exemplo 02 - Scrath : https://scratch.mit.edu/projects/671443528/
