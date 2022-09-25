@@ -1,6 +1,6 @@
 algoritmo "somador2"
 // Função :somar
-// Autor :daniel da silva
+// Autor :daniel da silvaa
 // Data : 06/09/2022
 // Seção de Declarações
 var
